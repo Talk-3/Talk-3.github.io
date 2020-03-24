@@ -1,0 +1,17 @@
+url: "https://talk-3.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "TalkTalkTalk"
+description: >- # this means to ignore newlines until "baseurl:"
+  Discord Server
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:categories/:title
+
+plugins:
+  - jekyll-feed
+markdown: kramdown
+lang: ja-jp
+theme: minima
