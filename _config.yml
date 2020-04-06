@@ -10,8 +10,9 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Madoreenu
-  pic: 1
+  pic: icon_zen.jpg
   position: Owner
+  language: Japanese,English,Spanish
   social:
     - title: twitter
       url: #
@@ -20,9 +21,10 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: T-taku
+  pic: T-taku.png
+  position: Admin
+  language: Japanese,English,Chinese
   social:
     - title: twitter
       url: #
@@ -31,9 +33,10 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Parfait9
+  pic: parfait9.png
+  position: Member
+  language: Japanese,English
   social:
     - title: twitter
       url: #
@@ -42,6 +45,17 @@ people:
     - title: google-plus
       url: #
 
+- name: Poteto143
+  pic: 24499634_500x500.png
+  position: Member
+  language: Japanese,English
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
