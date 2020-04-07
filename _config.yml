@@ -38,12 +38,12 @@ people:
   position: Member
   language: Japanese,English
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: website
+      url: https://peachparfait.github.io/
+    - title: scratch
+      url: https://scratch.mit.edu/users/parfait9/
+    - title: github
+      url: https://github.com/peachparfait
 
 - name: Poteto143
   pic: 24499634_500x500.png
@@ -56,6 +56,14 @@ people:
       url: #
     - title: google-plus
       url: #
+
+- name: Smol ikea cat
+  pic: sc15.png
+  position: Admin
+  language: Turkish,English,German
+  social:
+    - title: website
+      url: https://sc15.dev/
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
